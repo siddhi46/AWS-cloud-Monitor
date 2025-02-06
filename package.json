@@ -1,0 +1,14 @@
+{
+  "name": "user-data-app",
+  "version": "1.0.0",
+  "description": "A simple app to accept and display user data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "aws-sdk": "^2.814.0"
+  }
+}
