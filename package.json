@@ -1,5 +1,5 @@
 {
-  "name": "User-data-app",
+  "name": "user-app",
   "version": "1.0.0",
   "description": "A simple app to accept and display user data",
   "main": "server.js",
